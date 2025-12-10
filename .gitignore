@@ -1,0 +1,30 @@
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+target/
+*.jar
+*.war
+*.ear
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test reports
+allure-results/
+allure-report/
+
+# Gradle
+.gradle/
+build/
+
+# Others
+.classpath
+.project
+.settings/
+
+
